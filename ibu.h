@@ -4,3 +4,6 @@
 class anak;
 
 class Ibu {
+public:
+    string nama;
+    vector<anak*> daftar_anak;
